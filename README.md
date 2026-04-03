@@ -8,7 +8,7 @@ epsilon-NTU methods. Sizes shell-and-tube exchangers for
 5 common fluids with full thermal and hydraulic analysis.
  
 ## Live Demo
-**[Open Tool](https://your-url.streamlit.app)**
+**[Open Tool](https://heat-exchanger-tool-wscc7r2kaml4fl22ocgxcu.streamlit.app/)**
  
 ## Features
 - LMTD and epsilon-NTU calculation methods
